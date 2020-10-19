@@ -1,5 +1,5 @@
 # Introduction
-This is the source code of our TCSVT 2019 paper "Fast Fine-grained Image Classification via Weakly Supervised Discriminative Localization , Please cite the following paper if you use our code.
+This is the source code of our TCSVT 2019 paper "Fast Fine-grained Image Classification via Weakly Supervised Discriminative Localization" , Please cite the following paper if you use our code.
 
 Xiangteng He, Yuxin Peng and Junjie Zhao, "Fast Fine-grained Image Classification via Weakly Supervised Discriminative Localization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 29, No. 5, pp. 1394-1407, May. 2019.
 
